@@ -365,14 +365,24 @@
                  "value":false
                 }, 
                 {
+                 "name":"jitsiNoPrefix",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meetingRoomEmgenics"
+                 "value":"emgenics"
                 }, 
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }, 
                 {
                  "name":"zoom_margin",
@@ -1081,14 +1091,24 @@
                          "value":true
                         }, 
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"meetingRoomEmgenics"
+                         "value":"emgenics"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"meet.jit.si"
                         }, 
                         {
                          "name":"zoom_margin",
